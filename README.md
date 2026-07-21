@@ -12,6 +12,47 @@ Good documentation reduces downtime, improves user experience, and allows teams 
 
 # Documentation Examples
 
+# Featured Documentation
+
+## Account Provisioning SOP
+
+A standard operating procedure outlining the process of creating and configuring user accounts while maintaining consistency, security, and proper access control.
+
+[View Document](Account-provisioning-SOP.md)
+
+---
+
+## Log Analysis Audit
+
+A security-focused documentation example demonstrating review of system activity, identification of unusual patterns, and documentation of findings.
+
+[View Document](Log-Analysis-Audit.md)
+
+---
+
+## Incident Report Template
+
+A structured template designed to support consistent incident documentation, investigation notes, impact assessment, and remediation tracking.
+
+[View Document](Incident-report-template.md)
+
+---
+
+## Data Migration Verification
+
+A process document demonstrating validation steps after data migration to ensure accuracy, integrity, and successful completion.
+
+[View Document](data-migration-verification.md)
+
+---
+
+## Windows User Guides
+
+User-focused documentation created to assist with common operating system tasks.
+
+- Windows 10 Beginner Guide
+- Windows 11 Beginner Guide
+
 ## Runbooks
 
 Step-by-step procedures designed to guide technical teams through repeatable tasks.
